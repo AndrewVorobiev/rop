@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">rop</string>
+    <string name="connect">Connect</string>
+    <string name="server_response">Server Response</string>
 </resources>
